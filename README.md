@@ -92,7 +92,7 @@ how creative candidates get with this.
 We are looking forward to see what you come up with!!
 
 
-**comments**
+**Comments (b)**
 
 *Files modified:*
   src/Constants.ts
@@ -152,15 +152,17 @@ We are looking forward to see what you come up with!!
     * Trees can NOT be jumped over (done)
 
 
-  **Comment**
-  * Above comments described the entire implementation that I worked on, also I did it the way it's now because of the simplicity.
+  **Comments (b)**
+  * How well you've followed the instructions. Did you do everything we said you should do?
+    Above comments described the entire implementation that I worked on, also I did it the way it's now because of the simplicity.
   * Are there any known bugs?
-
+    NO.
   * Did you do any bonus items?
-  Yes, I did, I've added sound on Crash and Skier Jump.
-  * Tell us how to run it, either locally or through a cloud provider.
-  *Run it locally: *
+    Yes, I did, I've added sound on Crash and Skier Jump.
+
+ * Tell us how to run it, either locally or through a cloud provider.
+  *Run it locally:*
    - Install the npm packages by running npm install,
    - Run the application with this command *npm run dev*
-  * Run it on Server: *
-  Just access it online via *https://samiu-ceros.herokuapp.com/*
+  *Run it on Server:* 
+   - Access it online via *https://samiu-ceros.herokuapp.com/*
