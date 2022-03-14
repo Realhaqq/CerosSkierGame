@@ -163,4 +163,4 @@ We are looking forward to see what you come up with!!
    - Install the npm packages by running npm install,
    - Run the application with this command *npm run dev*
   * Run it on Server: *
-  Just access it online via *http://*
+  Just access it online via *https://samiu-ceros.herokuapp.com/*
