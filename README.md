@@ -96,9 +96,13 @@ We are looking forward to see what you come up with!!
 
 *Files modified:*
   src/Constants.ts
+
   src/Core/Game.ts
+
   src/Core/Utils.ts
+
   src/Entities/Obstacles/Obstacle.ts
+
   src/Entities/Skier.ts
 
 *src/Constants.ts*
@@ -153,14 +157,18 @@ We are looking forward to see what you come up with!!
 
 
   **Comments (b)**
-  * How well you've followed the instructions. Did you do everything we said you should do?
-    Above comments described the entire implementation that I worked on, also I did it the way it's now because of the simplicity.
-  * Are there any known bugs?
-    NO.
-  * Did you do any bonus items?
-    Yes, I did, I've added sound on Crash and Skier Jump.
+  How well you've followed the instructions. Did you do everything we said you should do?
+    
+    - Above comments described the entire implementation that I worked on, also I did it the way it's now because of the simplicity.
+  
+  Are there any known bugs?
+    - NO.
+  
+  Did you do any bonus items?
+    - Yes, I did, I've added sound on Crash and Skier Jump. Also re-structure the implementation.
 
  * Tell us how to run it, either locally or through a cloud provider.
+
   *Run it locally:*
    - Install the npm packages by running npm install,
    - Run the application with this command *npm run dev*

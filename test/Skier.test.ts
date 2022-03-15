@@ -26,12 +26,6 @@ describe(`Skier Test`, () =>  {
         expect(skier.canvas).toBe(canvas);
         
     });
-
-    it(`should update speed control value when skier speed increased`,()=>{
-        expect(1).toBe(1);
-    })
-    
-
     
     it(`Play sound the game`, () => {         
         expect(playSound()).toBe(true);
